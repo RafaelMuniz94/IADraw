@@ -1,2 +1,2 @@
 # IADraw
-Project to Study IA Drawing 
+Project to create random Images based on Texts and Images provided

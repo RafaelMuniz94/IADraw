@@ -1,0 +1,24 @@
+{
+  "name": "iadraw",
+  "version": "1.0.0",
+  "description": "Typescript project to study IA to draw",
+  "main": "src/index.ts",
+  "repository": "https://github.com/RafaelMuniz94/IADraw.git",
+  "author": "Ramunmi <raruznh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run-dev": "node build/index.js"
+  },
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "canvas": "^2.7.0",
+    "dotenv": "^8.2.0",
+    "fabric": "^4.4.0",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/fabric": "^4.2.5",
+    "@types/node": "^15.0.0"
+  }
+}
