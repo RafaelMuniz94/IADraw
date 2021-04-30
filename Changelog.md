@@ -1,3 +1,12 @@
+# [0.0.2 - 30/04/2021] - Fit and center image function
+
+## Changes:
+
+        modified:   Changelog.md
+        modified:   src/index.ts
+
+
+---
 # [0.0.1 - 28/04/2021] - Fit and center image function
 ## Changes:
 
